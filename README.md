@@ -1,8 +1,7 @@
 # bana116
 ## Hi, I’m Asmaa 👋
 
-**Product Designer**
-Product-focused Product Designer exploring systems, clarity, and design at scale
+A Product-focused **Product Designer** exploring systems, clarity, and design at scale
 
 I’m a product-focused Product Designer interested in systems, clarity, and how design decisions hold up across cultures and everyday use.
 
